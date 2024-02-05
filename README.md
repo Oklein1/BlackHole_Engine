@@ -33,5 +33,3 @@ The gravitational pull is dynamically calculated based on your spaceship's dista
 - Down: Move backward
 - Left: Move left
 - Right: Move right
-  
-4. **Feel the gravitational pull:** 
