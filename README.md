@@ -1,6 +1,6 @@
 # BlackHole Engine 🚀🌌
 
-Welcome to the BlackHole Engine! In this interactive web simulation, you take control of a state-of-the-art spaceship navigating through the vastness of space, all while encountering the mysterious forces of a gravitational black hole.
+Welcome to the BlackHole Physics Engine! In this interactive web simulation, you take control of a state-of-the-art spaceship navigating through the vastness of space, all while encountering the mysterious forces of a gravitational black hole.
 
 ## How It Works
 
