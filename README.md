@@ -33,3 +33,8 @@ The gravitational pull is dynamically calculated based on your spaceship's dista
 - Down: Move backward
 - Left: Move left
 - Right: Move right
+
+
+------
+
+Gravity effect code can be found: https://codepen.io/darrylhuffman/pen/vXjVJg
