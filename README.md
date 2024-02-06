@@ -14,27 +14,4 @@ Encounter the gravitational force of a black hole, simulated through a series of
 The gravitational pull is dynamically calculated based on your spaceship's distance from the black hole. As you venture through different rings, each corresponding to a specific distance interval, the pull varies in strength. The logic behind the simulation involves assessing the current distance, determining the appropriate gravitational field, and adjusting the spaceship's position accordingly.
 
 
-## Getting Started on your local system:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/BlackHole_Engine.git
-   ```
-
-2. **Open <code>index.html</code> in your local browser:**
-```bash
-  cd space-explorer-simulator
-  open index.html
-```
-3. **Use arrow keys to control the spaceship:**
-
-- Up: Move forward
-- Down: Move backward
-- Left: Move left
-- Right: Move right
-
-
-------
-
-Gravity effect code can be found: https://codepen.io/darrylhuffman/pen/vXjVJg
+Resource: Gravity effect code can be found <a href="https://codepen.io/darrylhuffman/pen/vXjVJg">here</a>.
